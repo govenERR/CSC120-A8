@@ -10,38 +10,39 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ## Assignment Points:
 
-_____ 10 pts: The class meaningfully implements each of the methods in described in the `Contract` interface:
+yes 10 pts: The class meaningfully implements each of the methods in described in the `Contract` interface:
 
-      _____ `void grab(String item);`
-      _____ `String drop(String item);`
-      _____ `void examine(String item);`
-      _____ `void use(String item);`
-      _____ `boolean walk(String direction);`
-      _____ `boolean fly(int x, int y);`
-      _____ `Number shrink();`
-      _____ `Number grow();`
-      _____ `void rest();`
-      _____ `void undo();`
+      yes `void grab(String item);`
+      yes `String drop(String item);`
+      yes `void examine(String item);`
+      yes `void use(String item);`
+      yes `boolean walk(String direction);`
+      yes `boolean fly(int x, int y);`
+      yes `Number shrink();`
+      yes `Number grow();`
+      yes `void rest();`
+      yes `void undo();`
 
 
 ## General Items:
 
-_____ 4 pts: Programs compile without errors or warnings
+yes 4 pts: Programs compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+yes 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+yes 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      _____ Classes & class members all have Javadoc header comments
+      yes Classes & class members all have Javadoc header comments
 
-      _____ Clear and consistent indentation of bracketed sections
+      yes Clear and consistent indentation of bracketed sections
 
-      _____ Adheres to Java conventions on naming & capitalization
+      yes Adheres to Java conventions on naming & capitalization
 
-      _____ Methods & variables all have clear and accurate names
+      yes Methods & variables all have clear and accurate names
 
-      _____ Methods avoid confusing side effects
+      yes Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed `rubric.md` file)
+yes 1 pt: All required files included with submission (including completed `rubric.md` file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment, **including a detailed description of the class you implemented and what it does**
+yes 1 pt: `reflection.md` contains your reflection on the assignment, **including a detailed description of the class you implemented and what it does**
+
